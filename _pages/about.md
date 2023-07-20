@@ -16,7 +16,7 @@ Peking University
 
 # Contact
 
-Please send email to [carefreesun@stu.pku.edu.cn](mailto:carefreesun@stu.pku.edu.cn).
+Please send email to [carefree_sun@stu.pku.edu.cn](mailto:carefree_sun@stu.pku.edu.cn).
 
 You can also contact me via [WeChat](../images/wechat.jpg).
 
