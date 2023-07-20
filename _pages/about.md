@@ -12,8 +12,7 @@ Hi, I'm Shaofan Sun(孙少凡), a second-year undergraduate from [School of Elec
 
 # Experience
 - Peking University
-  - 09/2021 - present
-  - Undergraduate major in Computer Science, EECS
+  - (09/2021-present)Undergraduate major in Computer Science, EECS
 
 # Contact
 Please send email to [carefreesun@stu.pku.edu.cn](mailto:carefreesun@stu.pku.edu.cn)
