@@ -12,7 +12,7 @@ Hi, I'm Shaofan Sun(孙少凡), a second-year undergraduate from [School of Elec
 
 # Experience
 Peking University
-- Undergraduate major in Computer Science, EECS (09/2021-present)
+- Undergraduate major in Computer Science and Technology, EECS (09/2021-present)
 
 # Contact
 
