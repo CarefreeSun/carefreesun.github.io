@@ -16,7 +16,7 @@ Hi, I'm Shaofan Sun(孙少凡), a second-year undergraduate from [School of Elec
 
 # Contact
 
-Please send email to [carefreesun@stu.pku.edu.cn](mailto:carefreesun@stu.pku.edu.cn)
+Please send email to [carefreesun@stu.pku.edu.cn](mailto:carefreesun@stu.pku.edu.cn).
 
-You can also contact me via [WeChat](../images/wechat.jpg)
+You can also contact me via [WeChat](../images/wechat.jpg).
 
