@@ -15,6 +15,8 @@ Hi, I'm Shaofan Sun(孙少凡), a second-year undergraduate from [School of Elec
   - Undergraduate major in Computer Science, EECS (09/2021-present)
 
 # Contact
+
 Please send email to [carefreesun@stu.pku.edu.cn](mailto:carefreesun@stu.pku.edu.cn)
+
 You can also contact me via [WeChat](../images/wechat.jpg)
 
