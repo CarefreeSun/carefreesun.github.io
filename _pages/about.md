@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second-year undergraduate from [School of Electronics Engineering and Computer Science](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), majoring in Computer Science. It's fortunate for me to work as an intern student at [STRUCT group](https://www.icst.pku.edu.cn/struct), [WICT](https://www.icst.pku.edu.cn/), guided by Prof. [Jiaying Liu](https://www.icst.pku.edu.cn/struct/people/liujiaying.html). Currently, my research interest lies in computer vision, especially action recognition and segmentation.
+I'm a third-year undergraduate from [School of Electronics Engineering and Computer Science](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn/), majoring in Computer Science. It's fortunate for me to work as an intern student at [STRUCT group](https://www.icst.pku.edu.cn/struct), [WICT](https://www.icst.pku.edu.cn/), guided by Prof. [Jiaying Liu](https://www.icst.pku.edu.cn/struct/people/liujiaying.html). Currently, my research interest lies in computer vision, especially action recognition and segmentation.
 
 # Experience
 Peking University
