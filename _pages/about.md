@@ -19,7 +19,7 @@ Microsoft Research Asia
 - Research Intern in Visual Computing Group (07/2024-01/2025)
 
 # Publication
-**Shaofan Sun**, Jiahang Zhang, Guo Tang, Chuanmin Jia, and Jiaying Liu. "Learning Discriminative and Robust Representations for UAV-View Skeleton-Based Action Recognition", in Proceedings of *IEEE International Conference on Multimedia and Expo Workshops (ICMEW)*, July 2024. [paper](https://ieeexplore.ieee.org/document/10645407) [code]()
+**Shaofan Sun**, Jiahang Zhang, Guo Tang, Chuanmin Jia, and Jiaying Liu. "Learning Discriminative and Robust Representations for UAV-View Skeleton-Based Action Recognition", in Proceedings of *IEEE International Conference on Multimedia and Expo Workshops (ICMEW)*, July 2024. [[paper]](https://ieeexplore.ieee.org/document/10645407) [[code]](https://github.com/CarefreeSun/MS-CTR-GCN)
 
 # Contact
 
